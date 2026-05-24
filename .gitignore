@@ -1,0 +1,12 @@
+.env
+google_credentials.json
+google_token.json
+.spotify_token_cache
+playlist_automation.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+google_credentials.json
+
+*.log
